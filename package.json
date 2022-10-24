@@ -10,10 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/anderdietrich/12831.git"
   },
-  "author": "",
+  "author": "Anderson Dietrich",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/anderdietrich/12831/issues"
   },
-  "homepage": "https://github.com/anderdietrich/12831#readme"
+  "homepage": "https://github.com/anderdietrich/12831#readme",
+  "dependencies": {
+    "http": "^0.0.1-security"
+  }
 }
